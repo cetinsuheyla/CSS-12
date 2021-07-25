@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: #383E56;
+  height: 50px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+nav a {
+  background-color: #FB743E;
+  color: #383E56;
+  text-decoration: none;
+  font-family: sans-serif;
+  padding: 5px 15px;
+  margin: 0 40px;
+  border-radius: 10px;
+}
+
+.current {
+  background-color: #9FB8AD;
+}
+
+section {
+  width: 600px;
+  margin: auto;
+}
